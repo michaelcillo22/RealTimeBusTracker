@@ -1,3 +1,3 @@
 # RealTimeBusTracker
 ## Real time bus tracker using APIs that contains all the bus data from Boston. 
-<img src = "images/mapanimation.PNG>
+<img src = "mapanimation.PNG>
