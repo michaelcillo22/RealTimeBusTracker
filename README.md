@@ -1,2 +1,2 @@
 # RealTimeBusTracker
-Real time bus tracker using APIs
+## Real time bus tracker using APIs
