@@ -1,5 +1,5 @@
 # RealTimeBusTracker
-## Real time bus tracker using APIs that contains all the bus data from Boston. 
+## Real time bus tracker using APIs that contains all the bus data from Boston City. 
 <img src = "./images/bustracker.PNG">
 
 ## Description: 
