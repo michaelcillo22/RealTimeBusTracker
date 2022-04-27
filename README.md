@@ -10,3 +10,6 @@ buses of the MBTA in Boston.
 1. Be more clear on Bus routes.
 2. Have a notification bar on the side with regards to delay trackers.
 3. Create map markers for 
+
+## License 
+MiT License 2022
